@@ -1,0 +1,43 @@
+
+p {
+  font-size:1.15em;
+}
+
+.mug {
+   border-collapse: collapse;
+   border: 1px solid black;
+   padding: 0px 10px 0px 10px;
+}
+
+.locus-name {
+  font-size:1.25em;
+}
+
+.selectionTable {
+  margin: 10px;
+  padding: 5px;
+}
+
+.populationHeader {
+  font-size:1.5em;
+  text-align: center;
+}
+
+.bordered {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.innertable {
+  padding:3px;
+  border-style: none;
+  background-color: inherit;
+  white-space: nowrap;
+}
+
+
+#submit_query {
+  background-color: #b7ce2e;
+  height:50px;
+}
